@@ -1,0 +1,9 @@
+git commit -m "輸入想輸入的文字" //保存狀態
+
+git status //查看目前的狀態
+
+
+git push //將保存的狀態傳到github上
+
+
+
